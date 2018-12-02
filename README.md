@@ -1,5 +1,5 @@
 # Student-Management-System
-### Updating & Retrieving Data from Database through GUI in JAVA
+### Updating & Retrieving Data from Database through GUI in Java
 
 The project assumes that data is already stored in the database and 
 it simply provides a graphical user interface to the user to insert, 
